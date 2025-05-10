@@ -68,7 +68,7 @@ This project, built for the **Xeno SDE Internship Assignment 2025**, is a Mini C
    ```
 2. **Install Dependencies**:
    ```bash
-   cd frontend
+   cd C:\Users\harshitha\temp\Mini-CRM-Frontend\frontend
    npm install
    ```
 3. **Start the Frontend Server**:
